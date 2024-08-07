@@ -1,11 +1,11 @@
 credentials:
   usernames:
-    BQ2PDDO:
+    BQ2P:
       email: ismail.bolat@halkbank.com.tr
       logged_in: False # Will be managed automatically
       name: ismail bolat
-      password: makro500 # Will be hashed automatically
-    BQ2P:
+      password: x500 # Will be hashed automatically
+    BQ2PX:
       email: ism.bolat@hotmail.com
       logged_in: False # Will be managed automatically
       name: Hasan Kara
