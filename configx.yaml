@@ -1,11 +1,11 @@
 credentials:
   usernames:
-    BQ2P:
-      email: ismail.bolat@halkbank.com.tr
+    monheart:
+      email: ism.bolat@hotmail.com
       logged_in: False # Will be managed automatically
       name: ismail bolat
       password: x500 # Will be hashed automatically
-    BQ2PX:
+    ismail:
       email: ism.bolat@hotmail.com
       logged_in: False # Will be managed automatically
       name: Hasan Kara
@@ -16,4 +16,5 @@ cookie:
   name: some_cookie_name
 preauthorized:
   emails:
-  - ismail.bolat@halkbank.com.tr
+  - ism.bolat@hotmail.com
+
